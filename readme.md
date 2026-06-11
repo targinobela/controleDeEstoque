@@ -122,8 +122,3 @@ java -cp bin gestaoLoja.Main
 - [ ] Alertas de estoque baixo
 - [ ] Relatório de vendas por período
 
----
-
-## 👨‍💻 Autor
-
-Desenvolvido com ☕ para facilitar a vida de pequenos comerciantes.
